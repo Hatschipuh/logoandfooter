@@ -1,0 +1,14 @@
+Logo und Fusszeile XXL
+=======================
+
+Version:    1.0  20.02.2018
+Autor:      Hertste, Germany, stefan.programmiert@web.de
+Webseite:   http://pc.hertste.de
+Copyright:  2018 Stefan H.
+
+Für Bludit Version 2.X 
+
+Fragen, Wünsche, Anregungen sind erwünscht. 
+Tester, Englisch-Übersetzer sind willkommen.
+
+
