@@ -1,0 +1,17 @@
+{
+ "plugin-data":
+ {
+  "name": "Logo ve Altbilgi XXL V1.0 02/18",
+  "description": "Bir logo ekleyin. Birçok kurulumla üstte bir alt bilgi ekle örneğin 'üstüne kaydır'"
+ } ,
+	"bezeichnung_hochscrollen": "adı 'üste kaydır'",
+	"bezeichnung_beschreibung": "Ziyaretçiler için metin örneğin -yukarı kaydır; HTML örneğin, HTML img tamamdır!",
+	"bezeichnung_logo": "Logo URL'si",
+	"bezeichnung_logo_beschreibung": "Yükleme dizininde Logo Resmi Yükle ve dosya adını yaz: ",
+	"logo_on": "Aç/Kapat",
+    "bezeichnung_fusszeile": "Alt bilgi",
+    "bezeichnung_hochscrollen_farbe": "Metin arkaplan rengi -yukarı kaydır- (boş=şeffaf)",
+    "bezeichnung_hochscrollen_farbe_beschreibung": "Renk örneğin sarı, yeşil,... ya da html renkleri",
+    "fusszeile_farbe": "Alt bilgi arkaplan rengi (boş=şeffaf)",
+    "eigene_fusszeile": "Alt bilginiz"
+}
